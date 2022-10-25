@@ -1,0 +1,24 @@
+.cards-container {
+	max-width: 80vw;
+	margin: 3% auto;
+}
+
+.card {
+	padding: 5% 3%;
+	border: 2px solid rgb(159, 18, 18);
+	margin-bottom: 5%;
+	background-color: blanchedalmond;
+	display: flex;
+	flex-direction: row;
+}
+
+.card-main {
+	width: 85vw;
+	padding-right: 5vw;
+}
+
+.card-side__title {
+	font-weight: 900;
+	font-size: 1.1rem;
+	line-height: 2rem;
+}

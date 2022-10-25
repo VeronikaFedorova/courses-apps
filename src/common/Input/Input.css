@@ -1,0 +1,14 @@
+.input {
+	background-color: antiquewhite;
+	width: 50vw;
+	height: 5vh;
+}
+
+.input::placeholder {
+	color: rgb(173, 33, 33);
+	font-size: 1.3rem;
+}
+
+.input-label {
+	display: none;
+}

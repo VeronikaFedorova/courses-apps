@@ -1,0 +1,16 @@
+.button {
+	max-width: 15vw;
+	max-height: 8vh;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	border: none;
+	border-radius: 5%;
+	background-color: rgb(159, 18, 18);
+	color: rgb(228, 215, 215);
+	font-weight: 800;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: rgb(86, 12, 12);
+}
